@@ -3,7 +3,7 @@
 ![Cyberpunk chick](girl.png)
 
 ```
->> Web Application Specialist
+>> Web Application Security Specialist
 >> Researcher in RFID/NFC and Implantable Devices
 >> Parkour
 ```
